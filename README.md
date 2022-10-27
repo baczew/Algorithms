@@ -27,4 +27,11 @@ One of the core Computer Science algorithms. Allows to sort any list in O(n log 
 
 <img width="500" alt="Zrzut ekranu 2022-10-27 o 14 18 28" src="https://user-images.githubusercontent.com/71928772/198282232-fe917a64-d35a-4f5f-a9e9-e26a1629a100.png">
 
+---
+### Sum of Medians
 
+Example of an algorithm with a heap insert method implemented from scratch. 
+It allows the program to keep the list sorted and that is essential part of calculating the median.
+Sorting *input list* each time separately would make the program run much longer.
+
+---
