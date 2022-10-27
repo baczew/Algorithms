@@ -20,3 +20,11 @@ One of the core Computer Science algorithms, created to check if an element can 
 
 ---
 ### Merge Sort
+
+One of the core Computer Science algorithms. Allows to sort any list in O(n log n) time.
+
+**Algorithm's visualization:**
+
+<img width="500" alt="Zrzut ekranu 2022-10-27 o 14 18 28" src="https://user-images.githubusercontent.com/71928772/198282232-fe917a64-d35a-4f5f-a9e9-e26a1629a100.png">
+
+
