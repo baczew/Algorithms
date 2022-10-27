@@ -1,4 +1,7 @@
-# Algorithms
+---
+<h1 align="center">Algorithms</h1>
+
+---
 
 ### Binary Search
 One of the core Computer Science algorithms, created to check if an element can be found in an array.
@@ -15,4 +18,5 @@ One of the core Computer Science algorithms, created to check if an element can 
 <img width="461" alt="Zrzut ekranu 2022-10-27 o 12 43 10" src="https://user-images.githubusercontent.com/71928772/198264215-b7097347-8d6f-417f-acd1-ce1f32a14e82.png">
 
 
-## Merge Sort
+---
+### Merge Sort
